@@ -33,12 +33,6 @@ I like coding, mostly do commissions for now, but I work hard on my passion proj
 
 ---
 
-## ⚔️ Featured Project: Catalyze
-*Combat Overhaul mod for Minecraft 1.21.1 Neoforge*
-- **Languages:** Java, JSON
-
----
-
 ## 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whatEclipse&show_icons=true&theme=tokyonight" alt="Stats" />
