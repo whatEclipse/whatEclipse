@@ -45,13 +45,3 @@ I like coding, mostly do commissions for now, but I work hard on my passion proj
 </p>
 
 ---
-
-## Buy me a Ko-fi !! 
-
-<p align="left">
-  <a href="https://ko-fi.com/C0C21S5QNB" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" border="0" alt="Buy Me a Coffee at ko-fi.com" width="300" />
-  </a>
-</p>
-
----
