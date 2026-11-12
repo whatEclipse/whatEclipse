@@ -1,4 +1,4 @@
-# Hi, I'm whatEclipse 👋
+# Hi, I'm whatEclipse, or simply Eclipse
 
 ###  Adaptive Developer | Embedded Systems | Machine Learning Enthusiast
 
