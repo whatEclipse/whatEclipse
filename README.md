@@ -34,8 +34,7 @@ I like coding, mostly do commissions for now, but I work hard on my passion proj
 ---
 
 ## 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whatEclipse&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
+broken :P 
+
 
 ---
